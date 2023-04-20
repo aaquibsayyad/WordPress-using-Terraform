@@ -24,7 +24,7 @@ variable "ami" {
 
   type        = string
 
-  default     = "ami-0d8f6eb4f641ef691"
+  default     = "ami-07d3a50bd29811cd1"
 
 }
 
@@ -34,7 +34,7 @@ variable "region" {
 
   type        = string
 
-  default     = "us-east-1"
+  default     = "ap-south-1"
 
 }
 
