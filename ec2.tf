@@ -1,6 +1,6 @@
 resource "aws_instance" "wordpress" {
 
-  ami           = "ami-0c55b159cbfafe1f0" // Amazon Linux 2 LTS
+  ami           = "ami-07d3a50bd29811cd1" // Amazon Linux 2 LTS
 
   instance_type = var.instance_type
 
